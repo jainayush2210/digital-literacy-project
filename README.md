@@ -1,77 +1,117 @@
-Digital Literacy Portfolio
-Student Details
-Name: Sudish
-Registration Number: [Your Reg No]
-Branch: [Your Branch]
-Year: First Year B.Tech
-Course: CSE0001 Digital Literacy
-Project Overview
+#  Digital Literacy Portfolio
+### CSE0001 – Digital Literacy | VIT Bhopal University
 
-This project is part of the Digital Literacy course at VIT Bhopal.
-The goal is to build a complete digital literacy portfolio as a Student Digital Ambassador.
+---
 
-The repository contains five tasks. Each task focuses on practical digital skills like online presence, communication, collaboration, and cyber safety.
+| Field | Details |
+|-------|---------|
+| **Name** | Ayush Jain |
+| **Registration No.** | 25BCE10669 |
+| **Branch** | B.Tech – Computer Science Engineering |
+| **Year / Semester** | 1st Year, 2nd Semester |
+| **Course Code** | CSE0001 |
+| **Submission Mode** | GitHub Repository |
 
-Repository Structure
-task-1-presentation
-Digital literacy infographic and description
-task-2-portfolio
-Screenshots of professional profiles
-task-3-platforms
-Coding platform activity and Google Form
-task-4-email-etiquette
-Professional emails and social media checklist
-task-5-cybercrime
-Case study and prevention checklist
-report
-Final project report (.docx / .pdf)
-Task Summary
-Task 1: Digital Literacy Infographic
+---
 
-Created an infographic using Canva.
-Covers digital literacy basics, safe internet use, and useful tools.
+##  About This Project
 
-Task 2: Digital Portfolio
+This repository is my **Digital Literacy Portfolio**, built as part of the CSE0001 course at VIT Bhopal University. As a Student Digital Ambassador, my goal through this project is to demonstrate responsible, safe, and professional use of digital tools — and to create resources that help my peers do the same.
 
-Set up profiles on GitHub, LinkedIn, and other platforms.
-Focused on building a professional online presence.
+The portfolio covers five modules: building digital awareness, establishing a professional online presence, exploring coding and collaboration platforms, practising email etiquette, and understanding cybercrime threats.
 
-Task 3: Platforms and Collaboration
+---
 
-Solved a beginner coding problem.
-Created a Google Form quiz for digital literacy awareness.
+##  Repository Structure
 
-Google Form Link: [Paste your link here]
+```
+digital-literacy-project/
+│
+├── README.md                          ← You are here
+├── report/
+│   └── Project_Report.docx            ← Full written project report
+│
+├── task-1-presentation/
+│   └── digital-literacy-infographic.png   ← Exported infographic (Canva)
+│       project report
+├── task-2-portfolio/
+│   ├── github-profile-screenshot.png
+│   ├── linkedin-profile-screenshot.png
+│   └── kaggle-profile-screenshot.png
+│       project report
+├── task-3-platforms/
+│   ├── hackerrank-challenge-screenshot.png
+│   ├── google-form-screenshot.png
+│   └── google-sheet-responses-screenshot.png
+│       project report
+├── task-4-email-etiquette/
+│   ├── professional-emails.docx
+│   └── social-media-checklist.md
+│       project report
+└── task-5-cybercrime/
+    ├── casestudy.md
+    └── prevention-checklist.md
+        project report
 
-Task 4: Email Etiquette
+---
 
-Wrote two professional emails.
-Created a checklist for responsible social media use.
+##  Task Summaries
 
-Task 5: Cybercrime Awareness
+### Task 1 — Digital Literacy Infographic
+> **Tool used:** Canva  
+> **What it covers:** Definition of digital literacy, safe internet practices, professional online presence, and useful tools for students.  
+>  See: `task-1-presentation/`
 
-Prepared a case study on cybercrime.
-Created a prevention checklist with safety tips.
+---
 
-Key Learnings
-Importance of digital presence
-Safe and responsible internet usage
-Professional communication skills
-Awareness of cyber threats
-Use of digital tools for learning and collaboration
-Tools Used
-Canva
-GitHub
-Google Forms
-LinkedIn
-HackerRank / CodeChef
-Conclusion
+### Task 2 — Student Digital Portfolio
+> **Platforms set up:** GitHub, LinkedIn, Kaggle  
+> **GitHub Profile README:** [github.com/sudish-666](https://github.com/sudish-666)  
+> A professional digital presence built across platforms relevant to CS students and the tech industry.  
+>  See: `task-2-portfolio/`
 
-This project improved my understanding of digital tools and online behavior.
-It helped me build a strong foundation for academic and professional growth.
+---
 
-References
-Canva
-GitHub
-Google Forms
-Cyber Crime Portal (cybercrime.gov.in)
+### Task 3 — Coding & Collaboration Platforms
+> **Coding platform:** HackerRank (Python Introduction challenge completed)  
+> **Google Form:** Digital Literacy Awareness Quiz — [View Form →](https://forms.google.com) *(link to be updated after publishing)*  
+>  See: `task-3-platforms/`
+
+---
+
+### Task 4 — Professional Email & Etiquette Guide
+> **Emails written:** Assignment extension request (to professor) + summer internship expression of interest (to coordinator)  
+> **Checklist:** Social Media Do's and Don'ts for college students  
+>  See: `task-4-email-etiquette/`
+
+---
+
+### Task 5 — Cybercrime Awareness
+> **Crime type covered:** UPI / Online Payment Fraud  
+> **Case study:** "The Scholarship Scam" — a realistic scenario based on documented RBI and I4C fraud patterns  
+> **Prevention checklist:** 12 actionable tips including UPI-specific rules, reporting channels, and social media safety  
+>  Report cybercrime: [cybercrime.gov.in](https://cybercrime.gov.in) | Helpline: **1930**  
+>  See: `task-5-cybercrime/`
+
+---
+
+## 🔗 Quick Links
+
+| Resource | Link |
+|----------|------|
+| GitHub Profile | [github.com/sudish-666](https://github.com/sudish-666) |
+| LinkedIn | *(link to be added)* |
+| Kaggle | *(link to be added)* |
+| Digital Literacy Quiz (Google Form) | *(link to be added after publishing)* |
+| Cybercrime Reporting Portal | [cybercrime.gov.in](https://cybercrime.gov.in) |
+| Cyber Crime Helpline | 1930 (24×7) |
+
+---
+
+## 🛠️ Tools Used
+
+`Canva` · `GitHub` · `LinkedIn` · `Kaggle` · `HackerRank` · `Google Forms` · `Google Sheets` · `MS Word`
+
+---
+
+*Last updated: March 2026 | VIT Bhopal University*
