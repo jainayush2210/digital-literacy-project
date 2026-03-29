@@ -14,98 +14,118 @@
 
 ---
 
-##  About This Project
+## About This Project
 
-This repository is my **Digital Literacy Portfolio**, built as part of the CSE0001 course at VIT Bhopal University. As a Student Digital Ambassador, my goal through this project is to demonstrate responsible, safe, and professional use of digital tools — and to create resources that help my peers do the same.
+This repository is my submission for the CSE0001 Digital Literacy project. The idea behind it is that we act as Student Digital Ambassadors — basically, someone who knows how to use the internet properly and can help peers do the same.
 
-The portfolio covers five modules: building digital awareness, establishing a professional online presence, exploring coding and collaboration platforms, practising email etiquette, and understanding cybercrime threats.
+I went through five tasks covering different areas: creating a digital awareness resource, setting up professional profiles, exploring coding platforms, writing professional emails, and researching cybercrime. Each task has its own folder below.
 
 ---
 
-##  Repository Structure
+## Repository Structure
 
-```
+
 digital-literacy-project/
+│
+├── README.md
+├── Project_Report.docx
+│
+├── task-1-presentation/
+│   ├── digital-literacy-infographic.png
+│   └── Task 1 project report.docx
+│
+├── task-2-portfolio/
+│   ├── github-profile-screenshot.png
+│   ├── linkedin-profile-screenshot.png
+│   ├── kaggle-profile-screenshot.png
+│   └── Task 2 project report.docx
+│
+├── task-3-platforms/
+│   ├── hackerrank-challenge-screenshot.png
+│   ├── hackerrank-challenge-screenshot2.png
+│   ├── google-form-screenshot.png
+│   ├── google-form-screenshot2.png
+│   ├── google-sheet-responses-screenshot.png
+│   └── Task 3 project report.docx
+│
+├── task-4-email-etiquette/
+│   ├── professional-emails.docx
+│   ├── social-media-checklist.docx
+│   └── Task 4 project report.docx
+│
+└── task-5-cybercrime/
+    ├── casestudy.docx
+    ├── prevention-checklist.docx
+    └── Task 5 project report.docx
 
-── README.md                          
-── report/
-   Project_Report.docx           
-
-── task-1-presentation/
-   digital-literacy-infographic.png  
-       project report
-── task-2-portfolio/
-    github-profile-screenshot.png
-    linkedin-profile-screenshot.png
-    kaggle-profile-screenshot.png
-    project report
-── task-3-platforms/
-    hackerrank-challenge-screenshot.png
-    google-form-screenshot.png
-    google-sheet-responses-screenshot.png
-     project report
-── task-4-email-etiquette/
-    professional-emails.docx
-    social-media-checklist.md
-    project report
-── task-5-cybercrime/
-     casestudy.md
-     prevention-checklist.md
-     project report
 
 ---
 
-##  Task Summaries
+## Task Summaries
 
 ### Task 1 — Digital Literacy Infographic
-> **Tool used:** Canva  
-> **What it covers:** Definition of digital literacy, safe internet practices, professional online presence, and useful tools for students.  
->  See: `task-1-presentation/`
+
+I used Canva to make a one-page infographic covering what digital literacy actually means, safe internet habits, and how to build a professional online presence. Fitting everything into one page was harder than expected — I had to cut a lot.
+
+📂 See: task-1-presentation/
 
 ---
 
 ### Task 2 — Student Digital Portfolio
-> **Platforms set up:** GitHub, LinkedIn, Kaggle  
-> **GitHub Profile README:*(https://github.com/jainayush2210)
-> A professional digital presence built across platforms relevant to CS students and the tech industry.  
->  See: `task-2-portfolio/`
+
+I set up profiles on GitHub, LinkedIn, and Kaggle. My GitHub already existed but was basically empty — this task pushed me to actually write a proper profile README. LinkedIn was new for me; I filled in my education section and connected it to my college email.
+
+- GitHub: (https://github.com/jainayush2210)
+- LinkedIn: (www.linkedin.com/in/ayush-jain-9749313ba)
+- Kaggle: (https://www.kaggle.com/drakan2)
+
+📂 See: task-2-portfolio/
 
 ---
 
 ### Task 3 — Coding & Collaboration Platforms
-> **Coding platform:** HackerRank (Python Introduction challenge completed)  
-> **Google Form:** Digital Literacy Awareness Quiz —(https://docs.google.com/forms/d/e/1FAIpQLScwTKOBL-qbkevVDcqYoZCXISHK7MAWIAmLMeI_P67FVkrGFA/viewform?usp=publish-editor)  
->  See: `task-3-platforms/`
+
+For the coding part, I used HackerRank and completed the Python Introduction challenge. For the collaboration part, I built a 5-question Digital Literacy Awareness Quiz using Google Forms — the kind of quiz I could actually use with batchmates.
+
+- Google Form Quiz: [View Form →](https://docs.google.com/forms/d/e/1FAIpQLScwTKOBL-qbkevVDcqYoZCXISHK7MAWIAmLMeI_P67FVkrGFA/viewform)
+
+📂 See: task-3-platforms/
 
 ---
 
 ### Task 4 — Professional Email & Etiquette Guide
-> **Emails written:** Assignment extension request (to professor) + summer internship expression of interest (to coordinator)  
-> **Checklist:** Social Media Do's and Don'ts for college students  
->  See: `task-4-email-etiquette/`
+
+I wrote two emails: one requesting a deadline extension from a professor, and one expressing interest in a summer internship. I also put together a Social Media Do's and Don'ts checklist for college students.
+
+📂 See: task-4-email-etiquette/
 
 ---
 
 ### Task 5 — Cybercrime Awareness
-> **Crime type covered:** UPI / Online Payment Fraud  
-> **Case study:* "The Scholarship Scam" — a realistic scenario based on documented RBI and I4C fraud patterns  
-> **Prevention checklist:** 12 actionable tips including UPI-specific rules, reporting channels, and social media safety  
->  Report cybercrime: [cybercrime.gov.in](https://cybercrime.gov.in) | Helpline: **1930**  
->  See: `task-5-cybercrime/`
+
+I researched UPI/Online Payment Fraud and wrote a case study around a realistic scenario — a student getting scammed through a fake scholarship QR code. I also made a prevention checklist with 12 tips, including specific UPI safety rules.
+
+If you or anyone you know has been targeted:
+- Report at: [cybercrime.gov.in](https://cybercrime.gov.in)
+- Call: *1930* (24×7, free)
+
+📂 See: task-5-cybercrime/
 
 ---
 
-##  Quick Links
+## Quick Links
 
 | Resource | Link |
 |----------|------|
-| GitHub Profile |(https://github.com/jainayush2210) |
-| LinkedIn | (https://www.linkedin.com/in/ayush-jain-9749313ba/) |
+| GitHub Profile | (https://github.com/jainayush2210) |
+| LinkedIn | (www.linkedin.com/in/ayush-jain-9749313ba) |
 | Kaggle | (https://www.kaggle.com/drakan2) |
-| Digital Literacy Quiz (Google Form) | (https://docs.google.com/forms/d/e/1FAIpQLScwTKOBL-qbkevVDcqYoZCXISHK7MAWIAmLMeI_P67FVkrGFA/viewform?usp=publish-editor)|
+| Digital Literacy Quiz | [View Form →](https://docs.google.com/forms/d/e/1FAIpQLScwTKOBL-qbkevVDcqYoZCXISHK7MAWIAmLMeI_P67FVkrGFA/viewform) |
 | Cybercrime Reporting Portal | [cybercrime.gov.in](https://cybercrime.gov.in) |
 | Cyber Crime Helpline | 1930 (24×7) |
 
-##  Tools Used
-`Canva` · `GitHub` · `LinkedIn` · `Kaggle` · `HackerRank` · `Google Forms` · `Google Sheets` · `MS Word`
-*Last updated: March 2026 | VIT Bhopal University*
+---
+
+## Tools Used
+
+Canva · GitHub · LinkedIn · Kaggle · HackerRank · Google Forms · Google Sheets · MS Word
