@@ -26,50 +26,43 @@ I went through five tasks covering different areas: creating a digital awareness
 
 
 digital-literacy-project/
-│
-├── README.md
-├── Project_Report.docx
-│
-├── task-1-presentation/
-│   ├── digital-literacy-infographic.png
-│   └── Task 1 project report.docx
-│
-├── task-2-portfolio/
-│   ├── github-profile-screenshot.png
-│   ├── linkedin-profile-screenshot.png
-│   ├── kaggle-profile-screenshot.png
-│   └── Task 2 project report.docx
-│
-├── task-3-platforms/
-│   ├── hackerrank-challenge-screenshot.png
-│   ├── hackerrank-challenge-screenshot2.png
-│   ├── google-form-screenshot.png
-│   ├── google-form-screenshot2.png
-│   ├── google-sheet-responses-screenshot.png
-│   └── Task 3 project report.docx
-│
-├── task-4-email-etiquette/
-│   ├── professional-emails.docx
-│   ├── social-media-checklist.docx
-│   └── Task 4 project report.docx
-│
-└── task-5-cybercrime/
+
+── README.md
+── Project_Report.docx
+
+── task-1-presentation/
+   ├── digital-literacy-infographic.png
+   └── Task 1 project report.docx
+
+── task-2-portfolio/
+   ├── github-profile-screenshot.png
+   ├── linkedin-profile-screenshot.png
+   ├── kaggle-profile-screenshot.png
+   └── Task 2 project report.docx
+   
+── task-3-platforms/
+     ── hackerrank-challenge-screenshot.png
+   ├── hackerrank-challenge-screenshot2.png
+   ├── google-form-screenshot.png
+   ├── google-form-screenshot2.png
+   ├── google-sheet-responses-screenshot.png
+   └── Task 3 project report.docx
+
+── task-4-email-etiquette/
+   ├── professional-emails.docx
+   ├── social-media-checklist.docx
+   └── Task 4 project report.docx
+
+── task-5-cybercrime/
     ├── casestudy.docx
     ├── prevention-checklist.docx
     └── Task 5 project report.docx
 
 
----
-
-## Task Summaries
-
-### Task 1 — Digital Literacy Infographic
-
+# Task Summaries
+## Task 1 — Digital Literacy Infographic
 I used Canva to make a one-page infographic covering what digital literacy actually means, safe internet habits, and how to build a professional online presence. Fitting everything into one page was harder than expected — I had to cut a lot.
-
 📂 See: task-1-presentation/
-
----
 
 ### Task 2 — Student Digital Portfolio
 
@@ -81,9 +74,7 @@ I set up profiles on GitHub, LinkedIn, and Kaggle. My GitHub already existed but
 
 📂 See: task-2-portfolio/
 
----
-
-### Task 3 — Coding & Collaboration Platforms
+## Task 3 — Coding & Collaboration Platforms
 
 For the coding part, I used HackerRank and completed the Python Introduction challenge. For the collaboration part, I built a 5-question Digital Literacy Awareness Quiz using Google Forms — the kind of quiz I could actually use with batchmates.
 
@@ -91,15 +82,11 @@ For the coding part, I used HackerRank and completed the Python Introduction cha
 
 📂 See: task-3-platforms/
 
----
-
 ### Task 4 — Professional Email & Etiquette Guide
 
 I wrote two emails: one requesting a deadline extension from a professor, and one expressing interest in a summer internship. I also put together a Social Media Do's and Don'ts checklist for college students.
 
 📂 See: task-4-email-etiquette/
-
----
 
 ### Task 5 — Cybercrime Awareness
 
@@ -111,8 +98,6 @@ If you or anyone you know has been targeted:
 
 📂 See: task-5-cybercrime/
 
----
-
 ## Quick Links
 
 | Resource | Link |
@@ -123,8 +108,6 @@ If you or anyone you know has been targeted:
 | Digital Literacy Quiz | [View Form →](https://docs.google.com/forms/d/e/1FAIpQLScwTKOBL-qbkevVDcqYoZCXISHK7MAWIAmLMeI_P67FVkrGFA/viewform) |
 | Cybercrime Reporting Portal | [cybercrime.gov.in](https://cybercrime.gov.in) |
 | Cyber Crime Helpline | 1930 (24×7) |
-
----
 
 ## Tools Used
 
