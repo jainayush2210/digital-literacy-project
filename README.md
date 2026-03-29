@@ -66,7 +66,7 @@ digital-literacy-project/
 
 ### Task 2 — Student Digital Portfolio
 > **Platforms set up:** GitHub, LinkedIn, Kaggle  
-> **GitHub Profile README:** [github.com/sudish-666](https://github.com/sudish-666)  
+> **GitHub Profile README:*(https://github.com/jainayush2210)
 > A professional digital presence built across platforms relevant to CS students and the tech industry.  
 >  See: `task-2-portfolio/`
 
@@ -74,7 +74,7 @@ digital-literacy-project/
 
 ### Task 3 — Coding & Collaboration Platforms
 > **Coding platform:** HackerRank (Python Introduction challenge completed)  
-> **Google Form:** Digital Literacy Awareness Quiz — [View Form →](https://forms.google.com) *(link to be updated after publishing)*  
+> **Google Form:** Digital Literacy Awareness Quiz —(https://docs.google.com/forms/d/e/1FAIpQLScwTKOBL-qbkevVDcqYoZCXISHK7MAWIAmLMeI_P67FVkrGFA/viewform?usp=publish-editor)  
 >  See: `task-3-platforms/`
 
 ---
@@ -88,7 +88,7 @@ digital-literacy-project/
 
 ### Task 5 — Cybercrime Awareness
 > **Crime type covered:** UPI / Online Payment Fraud  
-> **Case study:** "The Scholarship Scam" — a realistic scenario based on documented RBI and I4C fraud patterns  
+> **Case study:* "The Scholarship Scam" — a realistic scenario based on documented RBI and I4C fraud patterns  
 > **Prevention checklist:** 12 actionable tips including UPI-specific rules, reporting channels, and social media safety  
 >  Report cybercrime: [cybercrime.gov.in](https://cybercrime.gov.in) | Helpline: **1930**  
 >  See: `task-5-cybercrime/`
@@ -99,19 +99,13 @@ digital-literacy-project/
 
 | Resource | Link |
 |----------|------|
-| GitHub Profile | [github.com/sudish-666](https://github.com/sudish-666) |
-| LinkedIn | *(link to be added)* |
-| Kaggle | *(link to be added)* |
-| Digital Literacy Quiz (Google Form) | *(link to be added after publishing)* |
+| GitHub Profile |(https://github.com/jainayush2210) |
+| LinkedIn | (https://www.linkedin.com/in/ayush-jain-9749313ba/) |
+| Kaggle | (https://www.kaggle.com/drakan2) |
+| Digital Literacy Quiz (Google Form) | (https://docs.google.com/forms/d/e/1FAIpQLScwTKOBL-qbkevVDcqYoZCXISHK7MAWIAmLMeI_P67FVkrGFA/viewform?usp=publish-editor)|
 | Cybercrime Reporting Portal | [cybercrime.gov.in](https://cybercrime.gov.in) |
 | Cyber Crime Helpline | 1930 (24×7) |
 
----
-
 ##  Tools Used
-
 `Canva` · `GitHub` · `LinkedIn` · `Kaggle` · `HackerRank` · `Google Forms` · `Google Sheets` · `MS Word`
-
----
-
 *Last updated: March 2026 | VIT Bhopal University*
