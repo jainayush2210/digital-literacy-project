@@ -26,32 +26,32 @@ The portfolio covers five modules: building digital awareness, establishing a pr
 
 ```
 digital-literacy-project/
-│
-├── README.md                          ← You are here
-├── report/
-│   └── Project_Report.docx            ← Full written project report
-│
-├── task-1-presentation/
-│   └── digital-literacy-infographic.png   ← Exported infographic (Canva)
-│       project report
-├── task-2-portfolio/
-│   ├── github-profile-screenshot.png
-│   ├── linkedin-profile-screenshot.png
-│   └── kaggle-profile-screenshot.png
-│       project report
-├── task-3-platforms/
-│   ├── hackerrank-challenge-screenshot.png
-│   ├── google-form-screenshot.png
-│   └── google-sheet-responses-screenshot.png
-│       project report
-├── task-4-email-etiquette/
-│   ├── professional-emails.docx
-│   └── social-media-checklist.md
-│       project report
-└── task-5-cybercrime/
-    ├── casestudy.md
-    └── prevention-checklist.md
-        project report
+
+── README.md                          
+── report/
+   Project_Report.docx           
+
+── task-1-presentation/
+   digital-literacy-infographic.png  
+       project report
+── task-2-portfolio/
+    github-profile-screenshot.png
+    linkedin-profile-screenshot.png
+    kaggle-profile-screenshot.png
+    project report
+── task-3-platforms/
+    hackerrank-challenge-screenshot.png
+    google-form-screenshot.png
+    google-sheet-responses-screenshot.png
+     project report
+── task-4-email-etiquette/
+    professional-emails.docx
+    social-media-checklist.md
+    project report
+── task-5-cybercrime/
+     casestudy.md
+     prevention-checklist.md
+     project report
 
 ---
 
@@ -95,7 +95,7 @@ digital-literacy-project/
 
 ---
 
-## 🔗 Quick Links
+##  Quick Links
 
 | Resource | Link |
 |----------|------|
@@ -108,7 +108,7 @@ digital-literacy-project/
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 `Canva` · `GitHub` · `LinkedIn` · `Kaggle` · `HackerRank` · `Google Forms` · `Google Sheets` · `MS Word`
 
