@@ -18,4 +18,4 @@ The infographic was designed to be visually engaging and easy to understand so t
 
 An infographic image named:
 
-infographic.png
+digital-literacy-infographic.jpg
