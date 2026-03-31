@@ -6,7 +6,7 @@ The objective of this task was to create professional profiles on various digita
 
 ## Description
 
-In this task, accounts were created on GitHub, LinkedIn, and Kaggle platforms. These platforms help in showcasing technical skills, professional achievements, and learning progress.
+In this task, accounts are created on GitHub, LinkedIn, and Kaggle platforms. These platforms help in showcasing technical skills, professional achievements, and learning progress.
 
 GitHub was used to store project files and manage version control. LinkedIn was used to create a professional networking profile. Kaggle was explored for data science and coding practice.
 
