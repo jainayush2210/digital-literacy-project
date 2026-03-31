@@ -10,7 +10,7 @@ In this task, professional emails were drafted to understand proper email format
 
 A social media etiquette checklist was also created to highlight responsible online behavior and digital communication practices.
 
-This task helped improve professional communication and online behavior awareness.
+This task helped to improve professional communication and online behavior awareness.
 
 ## Tools Used
 
