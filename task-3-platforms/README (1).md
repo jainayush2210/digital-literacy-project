@@ -2,7 +2,7 @@
 
 ## Objective
 
-The objective of this task was to explore coding platforms and understand digital awareness through practical activities.
+The objective of this task was to explore coding platforms and to understand digital awareness through practical activities.
 
 ## Description
 
